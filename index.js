@@ -51,6 +51,7 @@ client.on('message', async message => {
     }
   }
 */
+//this is a really bad way to do this, but it works.
   
 
   });
